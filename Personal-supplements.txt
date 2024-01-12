@@ -3,4 +3,4 @@ www.kedou.xxx###bottomNav
 www.kedou.xxx###layui-layer1
 https://bttzyw.info##.left_top
 https://bttzyw.info##.right_top
-https://bttzyw.info##.top_gz
+||bttzyw.info##.top_gz
