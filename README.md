@@ -1,5 +1,5 @@
-kedou.xxx###bottomNav
-kedou.xxx###layui-layer1
-bttzyw.info##.left_top
-bttzyw.info##.right_top
-bttzyw.info##.top_gz
+只是给自己托管一个订阅，看官请回，不必浪费时间
+
+手机浏览器自用补充广告拦截规则
+
+
