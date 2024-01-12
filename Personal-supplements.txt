@@ -1,3 +1,4 @@
+[ad-supplements]
 ! Title: 唐教授自用补充规则
 kedou.xxx###bottomNav
 kedou.xxx###layui-layer1
