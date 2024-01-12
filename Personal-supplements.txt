@@ -1,4 +1,4 @@
-！Title：唐教授自用补充规则
+! Title: 唐教授自用补充规则
 kedou.xxx###bottomNav
 kedou.xxx###layui-layer1
 bttzyw.info##.left_top
