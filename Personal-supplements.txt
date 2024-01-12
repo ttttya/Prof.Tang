@@ -1,6 +1,6 @@
 ! Title: 唐教授自用补充规则
-kedou.xxx###bottomNav
-kedou.xxx###layui-layer1
-bttzyw.info##.left_top
-bttzyw.info##.right_top
-bttzyw.info##.top_gz
+www.kedou.xxx###bottomNav
+www.kedou.xxx###layui-layer1
+https://bttzyw.info##.left_top
+https://bttzyw.info##.right_top
+https://bttzyw.info##.top_gz
