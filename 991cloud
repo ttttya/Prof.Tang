@@ -7,17 +7,14 @@ external-controller: :9090
 proxies:
   - {name: 🇰🇷 韩国二区, server: p2.ssicu.com, port: 37963, type: ss, cipher: chacha20-ietf-poly1305, password: 02ad41ca-6ac8-40cd-9b11-3819f9b7fc50}
   - {name: 🇻🇳 越南一区, server: p1.ssicu.com, port: 18496, type: ss, cipher: chacha20-ietf-poly1305, password: 02ad41ca-6ac8-40cd-9b11-3819f9b7fc50}
-  - {name: 🇻🇳 越南二区, server: p2.ssicu.com, port: 18484, type: ss, cipher: chacha20-ietf-poly1305, password: 02ad41ca-6ac8-40cd-9b11-3819f9b7fc50}
-  - {name: 🇧🇷 巴西一区, server: p1.ssicu.com, port: 30021, type: ss, cipher: chacha20-ietf-poly1305, password: 02ad41ca-6ac8-40cd-9b11-3819f9b7fc50}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
+      - 🇰🇷 韩国二区
       - 🇻🇳 越南一区
-      - 🇻🇳 越南二区
-      - 🇧🇷 巴西一区
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -25,8 +22,6 @@ proxy-groups:
     proxies:
       - 🇰🇷 韩国二区
       - 🇻🇳 越南一区
-      - 🇻🇳 越南二区
-      - 🇧🇷 巴西一区
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -35,9 +30,6 @@ proxy-groups:
       - 🎯 全球直连
       - 🇰🇷 韩国二区
       - 🇻🇳 越南一区
-      - 🇻🇳 越南二区
-      - 🇧🇷 巴西一区
-      - 🇧🇷 巴西二区
   - name: ⛔️ 广告拦截
     type: select
     proxies:
